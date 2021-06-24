@@ -21,11 +21,11 @@ for (let i = 0; i < 3; i++){
 // klaar!
  // ==========================================
 
+for (let i = 0; i < 4; i++){
+    console.log("loop...")
+}
+    console.log("klaar!")
 
-// for (let i = 0; i < 4; i++) {
-//     console.log("loop...");
-// }
-// console.log("klaar!")
 
 
 
